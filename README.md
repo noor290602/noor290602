@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noor</h1>
 <h3 align="center">A passionate developer from Spain, Valencia 📍</h3>
 
-- 🔭 I’m currently working on [noorChat🗨️](https://github.com/noor290602/noorChat)
+- 🔭 I’m currently working on [noorStitches🧶](https://github.com/noor290602/noorstitches)
 
 - 🌱 I’m currently learning **Angular, Ionic & Spring Boot**
 
